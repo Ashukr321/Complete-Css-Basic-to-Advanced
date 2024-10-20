@@ -2,14 +2,16 @@
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrxhwg_X-XpKv5p4iXbwtEoUlkqQAkzJ1zsKqShwZkNhAkFcahVitQ8ydOKpGfbYCjshg&usqp=CAU)
 # Complete Css Basic to Advanced  🚀
 ## Quick Reference
-- [CSSNotesForProfessionals](Resources/CSSNotesForProfessionals.pdf)
+1. [CSSNotesForProfessionals](Resources/CSSNotesForProfessionals.pdf)
+2. [colorhunt](https://colorhunt.co/)
+3. [complete html css theory-lectures-v2-.pdf](Resources%2Fcomplete%20html%20css%20theory-lectures-v2-.pdf)
 
-- [Flexbox](Resources/Flexbox.png)
+
+
 
 ![alt text](Resources/flex.png)
-
-
 ![grid](Resources/css-grid-poster.png)
+
 
 ## Authors
 - [@Ashutosh kumar](https://github.com/Ashukr321)
