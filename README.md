@@ -9,7 +9,7 @@
 ![alt text](Resources/flex.png)
 
 
-![grid](Resources/grid.png)
+![grid](Resources/css-grid-poster.png)
 
 ## Authors
 - [@Ashutosh kumar](https://github.com/Ashukr321)
