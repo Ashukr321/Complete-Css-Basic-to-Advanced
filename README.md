@@ -91,57 +91,74 @@
 71. [word-break](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break)
 72. [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
 
-[//]: # (75. []&#40;&#41;)
+73. [accent-color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color)
 
-[//]: # (76. []&#40;&#41;)
+74. [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 
-[//]: # (77. []&#40;&#41;)
+75. [font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
 
-[//]: # (78. []&#40;&#41;)
+76. [font-variant](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant)
 
-[//]: # (79. []&#40;&#41;)
+77. [initial-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter)
 
-[//]: # (80. []&#40;&#41;)
+78. [margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)
+
+79. [vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
+
+80. [zoom](https://developer.mozilla.org/en-US/docs/Web/CSS/zoom)
 
 [//]: # (81. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (82. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (83. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (84. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (85. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (86. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (87. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (88. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (89. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (90. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (91. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (92. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (93. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (94. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (95. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (96. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (97. []&#40;&#41;)
 
+[//]: # ()
 [//]: # (98. []&#40;&#41;)
-
-[//]: # (99. []&#40;&#41;)
-
-[//]: # (100. []&#40;&#41;)
 
 
 
